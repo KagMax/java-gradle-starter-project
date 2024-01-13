@@ -38,9 +38,9 @@ public class App extends Application {
     public void start(Stage stage) {
 
         // set the title and size of the stage and show it
-        stage.setTitle("Software Dewelpo Academi");
-        stage.setWidth(1366);
-        stage.setHeight(768);
+        stage.setTitle("Srti");
+        stage.setWidth(800);
+        stage.setHeight(600);
         stage.show();
 
         // create a JavaFX scene with a stack pane as the root node and add it to the scene
